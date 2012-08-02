@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 def optimal_change(Amt, Currency, Inf):
     # array which contains optimal number of coins required for [0,1,...,Amt] amount
     num_coins = [0] # we need zero coins to give a change of 0 amount
